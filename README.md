@@ -34,4 +34,4 @@ A cutting-edge, empathetic health coach built on agentic AI principles and groun
 
 ---
 
-Would you like me to help write a README, contributor guide, or outline the RAG retrieval flow next? Let’s build something brilliant. 💡
+
